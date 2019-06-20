@@ -1,0 +1,2 @@
+[OrderNumber, CustomerName, State, TaxRate, ProductType, Area, CostPerSquareFoot, LaborCostPerSquareFoot, MaterialCost, LaborCost, Tax, Total]
+2~Bob~Michigan~5.75~Wood~5893~5.15~4.75~30348.95~27991.75~3354.590250~61695.290250

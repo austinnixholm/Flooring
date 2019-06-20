@@ -1,0 +1,6 @@
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\bin\Debug\Flooring.Models.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\bin\Debug\Flooring.Models.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csprojAssemblyReference.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\obj\Debug\Flooring.Models.csproj.CoreCompileInputs.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\obj\Debug\Flooring.Models.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Models\obj\Debug\Flooring.Models.pdb

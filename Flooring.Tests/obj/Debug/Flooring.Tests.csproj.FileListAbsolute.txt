@@ -1,0 +1,17 @@
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Tests.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Tests.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.BLL.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Data.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Models.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\nunit.framework.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.BLL.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Data.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Models.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\nunit.framework.xml
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\obj\Debug\Flooring.Tests.csprojAssemblyReference.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\obj\Debug\Flooring.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\obj\Debug\Flooring.Tests.csproj.CopyComplete
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\obj\Debug\Flooring.Tests.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\obj\Debug\Flooring.Tests.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.Tests\bin\Debug\Flooring.Tests.dll.config

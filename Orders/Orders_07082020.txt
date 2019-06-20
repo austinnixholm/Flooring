@@ -1,0 +1,2 @@
+[OrderNumber, CustomerName, State, TaxRate, ProductType, Area, CostPerSquareFoot, LaborCostPerSquareFoot, MaterialCost, LaborCost, Tax, Total]
+1~Austin~Michigan~5.75~Tile~2700~3.50~4.15~9450.00~11205.00~1187.662500~21842.662500

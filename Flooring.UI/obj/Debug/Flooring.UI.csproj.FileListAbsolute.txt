@@ -1,0 +1,14 @@
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.UI.exe.config
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.UI.exe
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.UI.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\obj\Debug\Flooring.UI.csproj.CoreCompileInputs.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\obj\Debug\Flooring.UI.exe
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\obj\Debug\Flooring.UI.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.BLL.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.Data.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.Models.dll
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.BLL.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.Data.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\bin\Debug\Flooring.Models.pdb
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\obj\Debug\Flooring.UI.csprojAssemblyReference.cache
+C:\Users\pelic\source\repos\Flooring\Flooring.UI\obj\Debug\Flooring.UI.csproj.CopyComplete
